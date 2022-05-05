@@ -89,3 +89,4 @@ SVM、BP、C4.5实现iris数据集、optdigits数据集分类
   accuracy | Running time
   ---------|------------
   0.8269337785197551 |4.550484657287598 Seconds
+
