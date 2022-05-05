@@ -33,9 +33,9 @@ SVM、BP、C4.5实现iris数据集、optdigits数据集分类
   
 * iris_svm:
 
-  |train prediction | test prediction |train accuracy|test accuracy | Running time|
-  |----------|------|------------------|-------------|--------------|---------------|
-  |0.971             |0.978            |0.971        |0.978         |1.6316866874694824 Seconds|
+  train prediction|test prediction|train Accuracy|test Accuracy|Running time
+  ----------------|---------------|--------------|-------------|------------
+  0.971           |0.978          |0.971         |0.978        |1.6316866874694824 Seconds
   
 * iris_c4.5:
   accuracy | Running time
